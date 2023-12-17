@@ -4,18 +4,18 @@ title: H ιστορία του UX (συνοπτική)
 image_url: /images/engelbrat-concepts.png
 caption: Διαφάνειες για τη συνοπτική ιστορία της Εμπειρίας Χρήστη
 slides:
-  - Guishan_Dingxiang-fengShui
-  - Ancientgreek_surgical
-  - workspace efficiency
+  - guishan-dingxiang-fengshui
+  - ancientgreek-surgical
+  - workspace-efficiency
   - toyota
-  - designing for people
+  - designing-for-people
   - disney
   - engelbrat-concepts
-  - personal computers
+  - personal-computers
   - natural-multimodal
   - first-mobile-phone
-  - don norman
-  - IPhone_1st_Gen
+  - don-norman
+  - iphone-1st-gen
   - oculus-rift-development-kit
 ---
 
